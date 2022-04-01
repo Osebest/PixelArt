@@ -23,7 +23,7 @@ td {
 }
 
 table {
-    border-collapse: collapse;
+    border: none;
     margin: 0 auto;
 }
 
@@ -33,6 +33,7 @@ tr {
 
 td {
     width: 20px;
+    background-color: rgb(208, 208, 240);
 }
 
 input[type=number] {
